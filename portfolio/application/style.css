@@ -61,7 +61,7 @@ body {
 
 /* [1] HOME SECTION */
 .home-section {
-    background-image: linear-gradient(rgba(23, 48, 46, 0.9)), url(../images/pexels-burst-373883.jpg);
+    background-image: linear-gradient(rgba(23, 48, 46, 0.9)), url(./images/pexels-burst-373883.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
